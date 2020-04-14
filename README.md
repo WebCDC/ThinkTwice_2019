@@ -1,6 +1,6 @@
-# Hackthon - NEI e IEEE
+# Think Twice- Hackthon
 
-Site de promoção do evento a ser realizado pelo [NEI](https://nei.web.ua.pt/) e [IEEE](http://ieee.web.ua.pt/) nos dias 23 e 24 de fevereiro de 2019.
+Think Twice promotion page.
 
 ## Preview
 
